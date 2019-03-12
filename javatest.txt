@@ -1,4 +1,4 @@
 hello test java.test git add for modifiedthree modified cachedcommit -a -mresetrmmvcheckouttest working --> cached  --> gitlocalrepbuild new branch devmarster test
 branch dev
 merge no fastforwordmaster testdev test
-master 2th no--ff
+master 2th no--ffdev no--ff
