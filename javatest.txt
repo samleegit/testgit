@@ -1,1 +1,1 @@
-hello test java.test git add for modifiedthree modified cached
+hello test java.test git add for modifiedthree modified cachedcommit -a -m
